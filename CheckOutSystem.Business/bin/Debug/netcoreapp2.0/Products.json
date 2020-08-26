@@ -1,0 +1,27 @@
+﻿[
+  {
+    "SKU": "ipd",
+    "Name": "Super iPad",
+    "Price": "549.99"
+  },
+  {
+    "SKU": "mbp",
+    "Name": "MacBook Pro",
+    "Price": "1399.99"
+  },
+  {
+    "SKU": "atv",
+    "Name": "Apple TV",
+    "Price": "109.50"
+  },
+  {
+    "SKU": "vga",
+    "Name": "VGA Adapter",
+    "Price": "30.00"
+  },
+  {
+    "SKU": "chi",
+    "Name": "Chepsi",
+    "Price": "5"
+  }
+]

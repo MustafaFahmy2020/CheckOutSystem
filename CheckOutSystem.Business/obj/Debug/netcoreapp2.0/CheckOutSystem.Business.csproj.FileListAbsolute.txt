@@ -1,0 +1,17 @@
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\bin\Debug\netcoreapp2.0\Discounts.json
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\bin\Debug\netcoreapp2.0\Offers.json
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\bin\Debug\netcoreapp2.0\Products.json
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\bin\Debug\netcoreapp2.0\CheckOutSystem.Business.deps.json
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\bin\Debug\netcoreapp2.0\CheckOutSystem.Business.dll
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\bin\Debug\netcoreapp2.0\CheckOutSystem.Business.pdb
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\bin\Debug\netcoreapp2.0\CheckOutSystem.JsonReader.dll
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\bin\Debug\netcoreapp2.0\CheckOutSystem.Service.dll
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\bin\Debug\netcoreapp2.0\CheckOutSystem.Service.pdb
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\bin\Debug\netcoreapp2.0\CheckOutSystem.JsonReader.pdb
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\obj\Debug\netcoreapp2.0\CheckOutSystem.Business.csprojAssemblyReference.cache
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\obj\Debug\netcoreapp2.0\CheckOutSystem.Business.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\obj\Debug\netcoreapp2.0\CheckOutSystem.Business.AssemblyInfoInputs.cache
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\obj\Debug\netcoreapp2.0\CheckOutSystem.Business.AssemblyInfo.cs
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\obj\Debug\netcoreapp2.0\CheckOutSystem.Business.csproj.CopyComplete
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\obj\Debug\netcoreapp2.0\CheckOutSystem.Business.dll
+C:\Users\mustafa.fahmy\Documents\Visual Studio 2017\Projects\CheckOutSystem\CheckOutSystem.Business\obj\Debug\netcoreapp2.0\CheckOutSystem.Business.pdb

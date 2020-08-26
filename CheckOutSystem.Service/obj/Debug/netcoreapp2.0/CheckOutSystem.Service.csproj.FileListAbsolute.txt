@@ -1,0 +1,15 @@
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.Service\obj\Debug\netcoreapp2.0\CheckOutSystem.Service.csprojAssemblyReference.cache
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.Service\obj\Debug\netcoreapp2.0\CheckOutSystem.Service.csproj.CoreCompileInputs.cache
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.Service\obj\Debug\netcoreapp2.0\CheckOutSystem.Service.AssemblyInfoInputs.cache
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.Service\obj\Debug\netcoreapp2.0\CheckOutSystem.Service.AssemblyInfo.cs
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.Service\bin\Debug\netcoreapp2.0\CheckOutSystem.Service.deps.json
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.Service\bin\Debug\netcoreapp2.0\CheckOutSystem.Service.dll
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.Service\bin\Debug\netcoreapp2.0\CheckOutSystem.Service.pdb
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.Service\bin\Debug\netcoreapp2.0\CheckOutSystem.JsonReader.dll
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.Service\bin\Debug\netcoreapp2.0\CheckOutSystem.JsonReader.pdb
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.Service\obj\Debug\netcoreapp2.0\CheckOutSystem.Service.csproj.CopyComplete
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.Service\obj\Debug\netcoreapp2.0\CheckOutSystem.Service.dll
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.Service\obj\Debug\netcoreapp2.0\CheckOutSystem.Service.pdb
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.Service\bin\Debug\netcoreapp2.0\Discounts.json
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.Service\bin\Debug\netcoreapp2.0\Offers.json
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.Service\bin\Debug\netcoreapp2.0\Products.json

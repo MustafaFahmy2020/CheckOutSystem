@@ -1,0 +1,11 @@
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\bin\Debug\netcoreapp2.0\CheckOutSystem.JsonReader.deps.json
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\bin\Debug\netcoreapp2.0\CheckOutSystem.JsonReader.dll
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\obj\Debug\netcoreapp2.0\CheckOutSystem.JsonReader.csproj.CoreCompileInputs.cache
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\obj\Debug\netcoreapp2.0\CheckOutSystem.JsonReader.AssemblyInfoInputs.cache
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\obj\Debug\netcoreapp2.0\CheckOutSystem.JsonReader.AssemblyInfo.cs
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\bin\Debug\netcoreapp2.0\CheckOutSystem.JsonReader.pdb
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\obj\Debug\netcoreapp2.0\CheckOutSystem.JsonReader.dll
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\obj\Debug\netcoreapp2.0\CheckOutSystem.JsonReader.pdb
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\bin\Debug\netcoreapp2.0\Discounts.json
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\bin\Debug\netcoreapp2.0\Offers.json
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\bin\Debug\netcoreapp2.0\Products.json

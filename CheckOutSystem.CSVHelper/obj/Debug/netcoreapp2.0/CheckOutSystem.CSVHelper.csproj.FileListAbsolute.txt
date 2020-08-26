@@ -1,0 +1,9 @@
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\bin\Debug\netcoreapp2.0\CheckOutSystem.CSVHelper.deps.json
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\bin\Debug\netcoreapp2.0\CheckOutSystem.CSVHelper.dll
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\obj\Debug\netcoreapp2.0\CheckOutSystem.CSVHelper.csprojAssemblyReference.cache
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\obj\Debug\netcoreapp2.0\CheckOutSystem.CSVHelper.csproj.CoreCompileInputs.cache
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\obj\Debug\netcoreapp2.0\CheckOutSystem.CSVHelper.AssemblyInfoInputs.cache
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\obj\Debug\netcoreapp2.0\CheckOutSystem.CSVHelper.AssemblyInfo.cs
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\bin\Debug\netcoreapp2.0\CheckOutSystem.CSVHelper.pdb
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\obj\Debug\netcoreapp2.0\CheckOutSystem.CSVHelper.dll
+c:\users\mustafa.fahmy\documents\visual studio 2017\Projects\CheckOutSystem\CheckOutSystem.CSVHelper\obj\Debug\netcoreapp2.0\CheckOutSystem.CSVHelper.pdb
